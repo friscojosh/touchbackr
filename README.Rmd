@@ -22,7 +22,7 @@ The touchbackr package exists to quickly aggregate data on kickoffs that are ret
 
 A rule change instituted by the NFL prior to the 2023 season which allows for the receiving team to signal a fair catch at any spot on the field before the 25 yard line and to get the ball at the 25.
 
-The rationale for this change was player safety, and the league office predicted that there would be a [15 percent drop in concussions])https://twitter.com/judybattista/status/1661036967599960068?s=20) due to the rule change.
+The rationale for this change was player safety, and the league office predicted that there would be a [15 percent drop in concussions](https://twitter.com/judybattista/status/1661036967599960068?s=20) due to the rule change.
 
 The data this package delivers is in a sense conservative. It looks at kickoffs that travel into the end zone and calculates the resulting yardage lost or gained on plays where teams decide to return the ball out of the end zone. These are situations where it is extremely difficult to rationalize a positive expected value for returning the football out of the end zone. These are also situations where players could easily be coached simply take the yards ("if your feet are in the end zone, fair catch it").
 

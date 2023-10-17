@@ -14,8 +14,8 @@ allows for the receiving team to signal a fair catch at any spot on the
 field before the 25 yard line and to get the ball at the 25.
 
 The rationale for this change was player safety, and the league office
-predicted that there would be a \[15 percent drop in
-concussions\])<https://twitter.com/judybattista/status/1661036967599960068?s=20>)
+predicted that there would be a [15 percent drop in
+concussions](https://twitter.com/judybattista/status/1661036967599960068?s=20)
 due to the rule change.
 
 The data this package delivers is in a sense conservative. It looks at
