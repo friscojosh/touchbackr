@@ -1,0 +1,14 @@
+Package: touchbackr
+Title: Just take the touchback, NFL
+Version: 0.1.0
+Authors@R: 
+    person("Josh", , "Hermsmeyer", "friscojosh.0@gmail.com", role = c("aut", "cre"))
+Description: Calculates yards lost or gained when NFL teams decide to return a kickoff out of the endzone.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    dplyr (>= 1.1.3),
+    nflreadr (>= 1.4.0),
+    stringr (>= 1.5.0)
