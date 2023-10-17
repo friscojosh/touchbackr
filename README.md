@@ -23,9 +23,9 @@ kickoffs that travel into the end zone and calculates the resulting
 yardage lost or gained on plays where teams decide to return the ball
 out of the end zone. These are situations where it is extremely
 difficult to rationalize a positive expected value for returning the
-football out of the end zone. These are also situations where players
-could easily be coached simply take the yards (“if your feet are in the
-end zone, fair catch it”).
+ball. These are also situations where players could easily be coached
+simply take the yards (“if your feet are in the end zone, fair catch
+it”).
 
 ## Installation
 
