@@ -77,7 +77,7 @@ get_ez_returns_by_team <- function(season) {
 
   joined <- all_kickoffs |>
     dplyr::left_join(ez_returns_by_team, dplyr::join_by(return_team)) |>
-    dplyr::mutate(ez_return_share = round(ez_kickoffs_returned / kickoffs, 1)) |>
+    dplyr::mutate(ez_return_share = round(ez_kickoffs_returned / kickoffs, 3) * 100) |>
     dplyr::arrange(-ez_kickoffs_returned)
 
 }
